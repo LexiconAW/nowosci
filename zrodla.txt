@@ -1,0 +1,58 @@
+# Strony nowości wydawców do codziennego sprawdzania
+# Format: Wydawca (jak w danych strony) | adres strony z nowościami | uwagi
+# Jedna linijka = jeden wydawca. Linijki zaczynające się od # są pomijane.
+# Żeby dodać wydawcę: dopisz linijkę. Żeby wyłączyć: postaw # na początku.
+# Adresy sprawdzone 4 listopada 2026.
+
+Karakter | https://karakter.pl/ksiazki | etykieta „Nowość”; data wydania na karcie książki
+Adam Marszałek | https://sklep.marszalek.com.pl/pl/nowe-produkty | z datami
+Media Rodzina | https://www.mediarodzina.pl/kategoria-produktu/nowosci/ |
+Zielona Sowa | https://zielonasowa.pl/nowosci |
+Siedmioróg | https://siedmiorog.pl/nowosci |
+FILIA | https://www.wydawnictwofilia.pl/Nowosci | długa lista, bierz tylko najnowsze
+Wolters Kluwer | https://www.profinfo.pl/nowosc |
+Nasza Księgarnia | https://nk.com.pl/nowosci/ksiazki.html |
+Skarpa Warszawska | https://www.skarpawarszawska.pl/nowosci.html |
+Harmonia | https://harmonia.edu.pl/pl/products?f%5B0%5D=special%3A85 |
+Czwarta Strona | https://czwartastrona.pl/kategoria-produktu/nowosci/ |
+Wydawnictwo Poznańskie | https://wydawnictwopoznanskie.pl/kategoria-produktu/nowosci/ |
+Wydawnictwo CM | https://www.wydawnictwocm.pl/nowosci.html |
+Wydawnictwo Literackie | https://www.wydawnictwoliterackie.pl/nowosci |
+Znak | https://www.znak.com.pl/nowosci | obejmuje też Znak Literanova, Znak Emotikon, Otwarte, Horyzont
+Czarne | https://czarne.com.pl/katalog/nowosci |
+Albatros | https://www.wydawnictwoalbatros.com/kategorie/nowosci/ | z datami
+Prószyński i S-ka | https://www.proszynski.pl/dodatkowe_informacje/nowosci |
+Sonia Draga | https://soniadraga.pl/nowosci |
+Marginesy | https://marginesy.com.pl/sklep/nowosci |
+Czarna Owca | https://www.czarnaowca.pl/nowosci |
+Helion | https://helion.pl/kategorie/nowosci | obejmuje też Sensus, Editio Red, Sploty
+Austeria | https://austeria.pl/nowosc/ |
+Czytelnik | https://czytelnik.pl/pl/new |
+Wydawnictwo Uniwersytetu Jagiellońskiego | https://wuj.pl/ksiazki/szukaj/nowosci |
+Wydawnictwa Uniwersytetu Warszawskiego | https://www.wuw.pl/Nowosc-snewproducts-pol.html |
+Wydawnictwo UMCS | https://wydawnictwo.umcs.eu/nowosci |
+Instytut Pamięci Narodowej | https://ipn.gov.pl/pl/wydawnictwo/ksiazki |
+Państwowy Instytut Wydawniczy | https://piw.pl/10-ksiegarnia | brak osobnej strony nowości – lista książek
+Pauza | https://wydawnictwopauza.pl/ksiazki/ | brak osobnej strony nowości – lista książek
+Ośrodek Karta | https://ksiegarnia.karta.org.pl/ | brak osobnej strony nowości
+Polskie Wydawnictwo Muzyczne | https://pwm.sklep.pl/ | sklep; szukaj oznaczeń „nowość”
+Biuro Literackie | https://poezjem.pl/ | księgarnia Biura Literackiego (poezja)
+
+# Wydawcy, których strony blokują automatyczne pobieranie (4.11.2026) — nie obchodzić blokady;
+# ich nowości przychodzą zwykle przez Ateneum. Gdy blokada zniknie, można usunąć # i wpisać adres.
+# Egmont | https://egmont.pl/ |
+# Wydawnictwo Naukowe PWN | https://ksiegarnia.pwn.pl/ |
+# W.A.B. / Wilga / Grupa Foksal | https://gwfoksal.pl/ |
+# Muza | https://muza.com.pl/ |
+# Noir sur Blanc | https://noirsurblanc.pl/ |
+# Universitas | https://universitas.com.pl/ |
+# Wydawnictwo Naukowe UAM | https://wydawnictwo.amu.edu.pl/ |
+# Kultura Gniewu | https://kulturagniewu.pl/ |
+# Replika | https://wydawnictworeplika.pl/ |
+# Vesper | https://wydawnictwovesper.pl/ |
+# Mag | https://www.mag.com.pl/ |
+# Studio JG | https://www.studiojg.pl/ |
+# Scream Comics | https://screamcomics.pl/ |
+# Bo.wiem | https://bowiem.pl/ |
+# Rebis | https://www.rebis.com.pl/ | strona nowości nie pokazuje listy książek automatowi
+# Brak strony nowości (4.11.2026): Ossolineum, Skrzat, Literatura, Vivat, Krytyka Polityczna
