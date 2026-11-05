@@ -37,6 +37,7 @@ Pauza | https://wydawnictwopauza.pl/ksiazki/ | brak osobnej strony nowości – 
 Ośrodek Karta | https://ksiegarnia.karta.org.pl/ | brak osobnej strony nowości
 Polskie Wydawnictwo Muzyczne | https://pwm.sklep.pl/ | sklep; szukaj oznaczeń „nowość”
 Biuro Literackie | https://poezjem.pl/ | księgarnia Biura Literackiego (poezja)
+Wydawnictwo Uniwersytetu Gdańskiego | https://wydawnictwo.ug.edu.pl/ksiegarnia-online/?_kategorie_produktow=nowosci
 
 # Wydawcy, których strony blokują automatyczne pobieranie (4.11.2026) — nie obchodzić blokady;
 # ich nowości przychodzą zwykle przez Ateneum. Gdy blokada zniknie, można usunąć # i wpisać adres.
