@@ -44,6 +44,7 @@ Muzeum Tatrzańskie | https://muzeumtatrzanskie.pl/wydawnictwa/
 Muzeum Zamkowe w Malborku | https://zamek.malbork.pl/kategoria-produktu/nowosci/
 Muzeum Zamek Górków | https://zamek.org.pl/kategoria/wydawnictwa/
 Muzeum Rolnictwa | https://muzeumrolnictwa.pl/wydawnictwa
+Wydawnictwo j | https://wydawnictwoj.pl
 
 # Wydawcy, których strony blokują automatyczne pobieranie (4.11.2026) — nie obchodzić blokady;
 # ich nowości przychodzą zwykle przez Ateneum. Gdy blokada zniknie, można usunąć # i wpisać adres.
