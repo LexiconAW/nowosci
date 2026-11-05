@@ -39,6 +39,7 @@ Polskie Wydawnictwo Muzyczne | https://pwm.sklep.pl/ | sklep; szukaj oznaczeń �
 Biuro Literackie | https://poezjem.pl/ | księgarnia Biura Literackiego (poezja)
 Wydawnictwo Uniwersytetu Gdańskiego | https://wydawnictwo.ug.edu.pl/ksiegarnia-online/?_kategorie_produktow=nowosci
 IH PAN | https://ksiegarnia-ihpan.edu.pl/pl/
+ISz PAN | https://www.ispan.pl/instytut/dzial-wydawnictw-i-promocji/ksiazki
 
 # Wydawcy, których strony blokują automatyczne pobieranie (4.11.2026) — nie obchodzić blokady;
 # ich nowości przychodzą zwykle przez Ateneum. Gdy blokada zniknie, można usunąć # i wpisać adres.
